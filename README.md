@@ -1,6 +1,7 @@
 # House_pricing_prediction
 Linear regression model to predict house price based on features such as the number of rooms, location, size and other relevant factors.
 
+link - https://housepricingprediction-55bjmlhfbu2tp3hfmzfihf.streamlit.app
 
 # 🏠 House Price Prediction using Linear Regression
 
